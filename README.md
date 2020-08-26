@@ -7,8 +7,8 @@
 
 ### Programming languages I use over last seven days
 
-<figure><embed src="https://wakatime.com/share/@carlostiago/79177cf1-b808-4229-a2f8-cc828b6499c3.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@carlostiago/3badc384-5479-4b41-a11a-e49a131b1995.png" /></a>
 
 
 ### Coding Activity over last seven days
-<figure><embed src="https://wakatime.com/share/@carlostiago/e65a68c6-59bc-4d5d-8fbe-d7d754fcce61.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@carlostiago/57453b1c-9718-4910-b818-81773919c6eb.png" /></a>
