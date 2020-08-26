@@ -5,5 +5,4 @@
 
 See what I'm doing...
 
-.. image:: https://wakatime.com/share/@carlostiago/3badc384-5479-4b41-a11a-e49a131b1995.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@carlostiago/3badc384-5479-4b41-a11a-e49a131b1995.png" /></a>
