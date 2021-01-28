@@ -12,3 +12,6 @@
 ### Programming languages I use over last seven days
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@carlostiago/3badc384-5479-4b41-a11a-e49a131b1995.png" style="width:100%;" /></a>
+
+### Editors I use
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@carlostiago/ab3c9437-bd53-4308-8fce-27e7d83dc97b.png" /></a>
