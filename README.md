@@ -4,7 +4,10 @@
 **tiagosantos/tiagosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## See what I'm doing...
-[![trophy](https://github-profile-trophy.vercel.app/?username=tiagosantos&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tiagosantos&theme=onedark)](https://github.com/tiagosantos)
+
+### Top Programming languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosantos&layout=compact&theme=onedark)](https://github.com/tiagosantos)
 
 ### Programming languages I use over last seven days
 
