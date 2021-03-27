@@ -1,7 +1,18 @@
-# Hi, I'm Tiago 👋🏾 💻
+# Olá, eu sou Carlos Tiago 👋🏾 💻 🇧🇷
 
+## Atualmente estou estudando VueJS, Flutter, TDD, Clean Achitecture, DDD, Data Science, Inglês, Francês, Alemão, Múscia e Desenho.
 
-**tiagosantos/tiagosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Carlos Tiago 👋🏾 💻 :uk:
+
+## I'm currently studying VueJS, Flutter, TDD, Clean Achitecture, DDD, Data Science, English, French, German, Music and Artistic Design.
+
+# Salut, je suis Carlos Tiago 👋🏾 💻 :fr:
+
+## J'étudie actuellement VueJS, Flutter, TDD, Clean Achitecture, DDD, Data Science, Anglais, Français, Allemand, Musique et Conception Artistique.
+
+# Hi, ich bin Carlos Tiago 👋🏾 💻 :de:
+
+## Ich studiere derzeit VueJS, Flutter, TDD, Clean Achitecture, DDD, Datenwissenschaft, Englisch, Französisch, Deutsch, Musik und künstlerisches Design.
 
 ## See what I'm doing...
 [![trophy](https://github-profile-trophy.vercel.app/?username=tiagosantos&theme=onedark)](https://github.com/tiagosantos)
