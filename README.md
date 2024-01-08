@@ -1,7 +1,7 @@
 # Olá, eu sou Carlos Tiago 👋🏾 💻 🇧🇷
 
-## Atualmente estou estudando VueJS, Flutter, TDD, Clean Achitecture, DDD, Data Science, Inglês, Francês, Alemão, Múscia e Desenho.
+## Atualmente estou trabalhando com Ruby on Rails, Python, ReactJS, VueJS, Flutter, TDD, Clean Achitecture, DDD e Data Science.
 
 # Hi, I'm Carlos Tiago 👋🏾 💻 :uk:
 
-## I'm currently studying VueJS, Flutter, TDD, Clean Achitecture, DDD, Data Science, English, French, German, Music and Artistic Design.
+## I'm currently working with Ruby on Rails, Python, ReactJS, VueJS, Flutter, TDD, Clean Achitecture, DDD and Data Science.
